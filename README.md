@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer from India with a keen 
 
 Here are a couple of projects I've worked on:
 
-- [Stone Paper Scissors Game](link-to-rps-repo): Another fun game to play with the computer, developed using HTML, CSS, and JavaScript.
+- [Stone Paper Scissors Game](https://github.com/chauhan-hardik/rock-paper-scissors.git): Another fun game to play with the computer, developed using HTML, CSS, and JavaScript.
 - [Tic-Tac-Toe Game](link-to-tic-tac-toe-repo): A classic game built with HTML, CSS, and JavaScript.
 
 ## 🔧 Languages & Tools
