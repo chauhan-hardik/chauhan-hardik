@@ -38,7 +38,7 @@ Currently, I'm on a journey to master the MERN (MongoDB, Express.js, React, Node
 
 ---
 <p align="center">
-  <i>Feel free to connect with me on LinkedIn...</i>
+  <i>Feel free to connect with me on...</i>
   <br/><br/>
   <a target="_blank" href="https://www.linkedin.com/in/hardik-chauhan-256260266"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="mailto:hardikchauhan1502@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
