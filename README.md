@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hardik Chauhan! 👋</h1>
+<h1 align="center">Hi there, I'm Hardik Chauhan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 Welcome to my GitHub profile! I'm a passionate developer from India with a keen interest in web development and technology.
 
