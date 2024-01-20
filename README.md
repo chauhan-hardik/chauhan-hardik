@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hardik Chauhan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-Welcome to my GitHub profile! I'm a third-year computer engineering student based in India. My focus lies in web development, where I've explored HTML, CSS, and JavaScript. Currently, I'm diving into the MERN stack to broaden my skills and contribute to exciting projects. Let's connect and explore the world of technology together!
+Welcome to my GitHub profile! I'm a third-year computer engineering student based in India. My focus lies in web development, where I've explored HTML, CSS, and JavaScript. Let's connect and explore the world of technology together!
 
 ## 🚀 Projects
 
