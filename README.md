@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I'm a third-year computer engineering student base
 
 Here are a couple of projects I've worked on:
 
-- [Stone Paper Scissors Game](https://github.com/chauhan-hardik/rock-paper-scissors.git): Another fun game to play with the computer, developed using HTML, CSS, and JavaScript.
+- [Calculator](https://github.com/chauhan-hardik/Calculator.git): Calculator built with HTML, CSS, and JavaScript.
 - [Tic-Tac-Toe Game](https://github.com/chauhan-hardik/Tic-Tac-Toe.git): A classic game built with HTML, CSS, and JavaScript.
+- [Stone Paper Scissors Game](https://github.com/chauhan-hardik/rock-paper-scissors.git): Another fun game to play with the computer, developed using HTML, CSS, and JavaScript.
 
 ## 🔧 Languages & Tools
 
