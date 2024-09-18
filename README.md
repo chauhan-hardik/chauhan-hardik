@@ -9,18 +9,19 @@ Here are a couple of projects I've worked on:
 - [Calculator](https://github.com/chauhan-hardik/Calculator.git): Calculator built with HTML, CSS, and JavaScript.
 - [Tic-Tac-Toe Game](https://github.com/chauhan-hardik/Tic-Tac-Toe.git): A classic game built with HTML, CSS, and JavaScript.
 - [Stone Paper Scissors Game](https://github.com/chauhan-hardik/rock-paper-scissors.git): Another fun game to play with the computer, developed using HTML, CSS, and JavaScript.
-
+<!--
 ## 🔧 Languages & Tools
 
 <div align="center">
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
-
+-->
+<!--
 ## 🌱 Learning Path
 
 Currently, I'm on a journey to master the MERN (MongoDB, Express.js, React, Node.js) stack. My goal is to become proficient in building full-stack web applications.
-
+-->
 ## 📈 GitHub Stats
 
 <div align="center">
